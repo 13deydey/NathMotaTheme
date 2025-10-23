@@ -5,3 +5,7 @@
         <li><a href="#droitsReserves">TOUS DROITS RÉSERVÉS</a></li>
     </ul>
 </div>
+
+</div> <!-- Fermeture de la div .site -->
+</body>
+</html>
